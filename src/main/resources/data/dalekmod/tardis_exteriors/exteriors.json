@@ -1,0 +1,14 @@
+{
+  "exteriorName":"Valeyard Collections",
+  "interiorPath": "dalekmod:tardis_default",
+  "modelPath":[
+    "vycs_addon:models/tileentity/mk_one_davison/mk_one_davison.json",
+    "vycs_addon:models/tileentity/mk_one_smith/mk_one_smith.json",
+    "vycs_addon:models/tileentity/mk_one_tennant/mk_one_tennant.json",
+    "vycs_addon:models/tileentity/mk_one_whittaker/mk_one_whittaker.json"
+  ],
+  "xpValue":600,
+  "unlockable":true,
+  "isDefaultSelection":true,
+  "desc":"Valeyard Collections Exteriors"
+}

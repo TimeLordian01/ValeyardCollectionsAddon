@@ -6,6 +6,6 @@
    ],
    "xpValue":100,
    "unlockable":true,
-   "isDefaultSelection":false,
+   "isDefaultSelection":true,
    "desc":"The Host Exterior"
 }
