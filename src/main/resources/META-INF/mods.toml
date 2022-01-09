@@ -1,6 +1,6 @@
 modLoader="javafml"
 loaderVersion="[30,)"
-license="All rights reserved"
+license="Apache"
 [[mods]]
 modId="vycs_addon"
 version="1.0.5"
