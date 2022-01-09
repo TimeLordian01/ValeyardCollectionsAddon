@@ -1,0 +1,64 @@
+{
+  "defaultSpawnRotation": 180,
+  "doorOffset": [16,2,28],
+  "yOffset": 4,
+  "interiorName": "Valeyard Coral",
+  "interiorFile": "dalekmod:valeyard_coral",
+  "previewImage": "vycs_addon:textures/gui/coral.png",
+  "recipe": {
+    "parts": [
+      {
+        "item": "minecraft:smooth_sandstone",
+        "quantity": 64
+      },
+      {
+        "item": "dalekmod:black_smooth_plastic",
+        "quantity": 32
+      },
+      {
+        "item": "dalekmod:coord_panel",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:dimension_selector_panel",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:waypoint_panel",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:chameleon_panel",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:flight_lever",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:fast_return_lever",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:scanner",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:fault_locator",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:green_tube_rotor",
+        "quantity": 10
+      },
+      {
+        "item": "dalekmod:refined_dalekanium_roundel",
+        "quantity": 32
+      },
+      {
+        "item": "dalekmod:steel_block",
+        "quantity": 64
+      }
+    ]
+  }
+}

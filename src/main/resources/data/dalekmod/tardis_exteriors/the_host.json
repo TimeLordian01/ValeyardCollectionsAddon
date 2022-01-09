@@ -1,0 +1,11 @@
+{
+   "exteriorName":"The Host Exterior",
+   "interiorPath": "dalekmod:tardis_default",
+   "modelPath":[
+      "vycs_addon:models/tileentity/the_host/the_host.json"
+   ],
+   "xpValue":100,
+   "unlockable":true,
+   "isDefaultSelection":false,
+   "desc":"The Host Exterior"
+}

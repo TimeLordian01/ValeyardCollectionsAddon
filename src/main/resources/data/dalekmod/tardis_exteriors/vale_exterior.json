@@ -1,0 +1,11 @@
+{
+   "exteriorName":"Vale's Exterior",
+   "interiorPath": "dalekmod:vale_interior",
+   "modelPath":[
+      "vycs_addon:models/tileentity/vale_exterior/vale_exterior.json"
+   ],
+   "xpValue":1000,
+   "unlockable":true,
+   "isDefaultSelection":true,
+   "desc":"Vale's Exterior"
+}

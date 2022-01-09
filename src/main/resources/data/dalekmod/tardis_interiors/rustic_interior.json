@@ -1,0 +1,60 @@
+{
+  "defaultSpawnRotation": 180,
+  "doorOffset": [17,1,23],
+  "yOffset": 6,
+  "interiorName": "Rustic Interior (By Aries)",
+  "interiorFile": "dalekmod:rustic_interior",
+  "previewImage": "vycs_addon:textures/gui/rustic.png",
+  "recipe": {
+    "parts": [
+      {
+        "item": "dalekmod:filled_rusted_steel_beams_roundel",
+        "quantity": 4
+      },
+      {
+        "item": "minecraft:brown_concrete",
+        "quantity": 64
+      },
+      {
+        "item": "dalekmod:coord_panel",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:dimension_selector_panel",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:waypoint_panel",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:chameleon_panel",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:flight_lever",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:fast_return_lever",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:scanner",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:fault_locator",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:ship_light",
+        "quantity": 32
+      },
+      {
+        "item": "dalekmod:black_tube_rotor",
+        "quantity": 32
+      }
+    ]
+  }
+}

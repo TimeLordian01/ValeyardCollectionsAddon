@@ -1,0 +1,11 @@
+{
+  "exteriorName":"VC Mark 1 Davison",
+  "interiorPath": "dalekmod:tardis_default",
+  "modelPath":[
+    "vycs_addon:models/tileentity/mk_one_davison/mk_one_davison.json"
+  ],
+  "xpValue":500,
+  "unlockable":true,
+  "isDefaultSelection":false,
+  "desc":"Valeyard Collections Mark 1 Davison (1985) Exterior"
+}

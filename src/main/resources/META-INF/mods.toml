@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[30,)"
+license="All rights reserved"
+[[mods]]
+modId="vycs_addon"
+version="1.0.5"
+displayName="Valeyard Collections Addon"
+displayURL="https://valeyardstudios.wixsite.com/valeyardstudios"
+credits="TheVale"
+authors="TheVale"
+description='''Valeyard Collections Model Pack for Dalek Mod Update 65'''

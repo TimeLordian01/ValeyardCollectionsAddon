@@ -1,0 +1,64 @@
+{
+  "defaultSpawnRotation": 180,
+  "doorOffset": [16,5,26],
+  "yOffset": 6,
+  "interiorName": "Host Interior",
+  "interiorFile": "dalekmod:host_interior",
+  "previewImage": "vycs_addon:textures/gui/host.png",
+  "recipe": {
+    "parts": [
+      {
+        "item": "dalekmod:white_stainless_steel",
+        "quantity": 64
+      },
+      {
+        "item": "dalekmod:stainless_steel_block",
+        "quantity": 32
+      },
+      {
+        "item": "dalekmod:coord_panel",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:dimension_selector_panel",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:waypoint_panel",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:chameleon_panel",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:flight_lever",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:fast_return_lever",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:scanner",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:fault_locator",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:scorched_quartz_block",
+        "quantity": 64
+      },
+      {
+        "item": "dalekmod:light_gray_smooth_plastic",
+        "quantity": 64
+      },
+      {
+        "item": "dalekmod:artron_fuel_tank",
+        "quantity": 1
+      }
+    ]
+  }
+}

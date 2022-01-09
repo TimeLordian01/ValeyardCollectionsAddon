@@ -1,0 +1,56 @@
+{
+  "defaultSpawnRotation": 180,
+  "doorOffset": [7,2,26],
+  "yOffset": 4,
+  "interiorName": "Valeyard Copper",
+  "interiorFile": "dalekmod:valeyard_copper",
+  "previewImage": "vycs_addon:textures/gui/copper.png",
+  "recipe": {
+    "parts": [
+      {
+        "item": "minecraft:smooth_sandstone",
+        "quantity": 64
+      },
+      {
+        "item": "dalekmod:black_smooth_plastic",
+        "quantity": 64
+      },
+      {
+        "item": "dalekmod:coord_panel",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:dimension_selector_panel",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:waypoint_panel",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:chameleon_panel",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:flight_lever",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:fast_return_lever",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:scanner",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:fault_locator",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:white_tube_rotor",
+        "quantity": 10
+      }
+    ]
+  }
+}

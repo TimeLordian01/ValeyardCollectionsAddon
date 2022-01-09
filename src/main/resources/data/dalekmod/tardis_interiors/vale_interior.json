@@ -1,0 +1,44 @@
+{
+  "defaultSpawnRotation": 180,
+  "doorOffset": [17,4,24],
+  "yOffset": 3,
+  "interiorName": "Vale's Interior",
+  "interiorFile": "dalekmod:vale_interior",
+  "previewImage": "vycs_addon:textures/gui/vale.png",
+  "recipe": {
+    "parts": [
+     {
+        "item": "dalekmod:coord_panel",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:dimension_selector_panel",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:waypoint_panel",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:chameleon_panel",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:flight_lever",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:fast_return_lever",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:scanner",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:fault_locator",
+        "quantity": 1
+      }
+    ]
+  }
+}
