@@ -1,0 +1,7 @@
+{
+	"texture": "vycs_addon:tileentity/mk_two/mk_two_happiness",
+	"lightmap": "vycs_addon:tileentity/mk_two/mk_two_davison_lightmap",
+	"font_data": "vycs_addon:models/tileentity/mk_two/mk_two_davison_font.json",
+	"alphamap": "generated",
+	"parent": "vycs_addon:models/tileentity/mk_two/mk_two_davison"
+}

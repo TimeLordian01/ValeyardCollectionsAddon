@@ -1,0 +1,22 @@
+{
+  "exteriorName":"Valeyard Collections Mark 2",
+  "interiorPath": "dalekmod:vale_interior",
+  "modelPath":[
+    "vycs_addon:models/tileentity/mk_two/mk_two_hartnell.json",
+    "vycs_addon:models/tileentity/mk_two/mk_two_pertwee.json",
+    "vycs_addon:models/tileentity/mk_two/mk_two_baker.json",
+    "vycs_addon:models/tileentity/mk_two/mk_two_davison.json",
+    "vycs_addon:models/tileentity/mk_two/mk_two_happiness.json",
+    "vycs_addon:models/tileentity/mk_two/mk_two_mcgann.json",
+    "vycs_addon:models/tileentity/mk_two/mk_two_war.json",
+    "vycs_addon:models/tileentity/mk_two/mk_two_tennant.json",
+    "vycs_addon:models/tileentity/mk_two/mk_two_smith.json",
+    "vycs_addon:models/tileentity/mk_two/mk_two_tribute.json",
+    "vycs_addon:models/tileentity/mk_two/mk_two_capaldi.json",
+    "vycs_addon:models/tileentity/mk_two/mk_two_whittaker.json"
+  ],
+  "xpValue":900,
+  "unlockable":true,
+  "isDefaultSelection":true,
+  "desc":"Valeyard Collections Mark 2 Exteriors"
+}

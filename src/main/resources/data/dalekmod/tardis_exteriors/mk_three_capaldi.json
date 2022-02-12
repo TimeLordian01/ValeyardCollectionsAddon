@@ -1,0 +1,12 @@
+{
+  "exteriorName":"Mark 3 Capaldi (Interior and Exterior)",
+  "interiorPath": "dalekmod:valeyard_copper",
+  "modelPath":[
+    "vycs_addon:models/tileentity/mk_three/mk_three_capaldi.json",
+    "vycs_addon:models/tileentity/mk_three/mk_three_tribute.json"
+  ],
+  "xpValue":100,
+  "unlockable":true,
+  "isDefaultSelection":true,
+  "desc":"Mark 3 Capaldi (Interior and Exterior)"
+}

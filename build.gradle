@@ -11,11 +11,11 @@ buildscript {
 
 apply plugin: 'net.minecraftforge.gradle'
 
-group = 'valeyardstudios'
-version = '1.0'
+group = 'Valeyard Collections'
+version = '1.1.5'
 
 java {
-    archivesBaseName = 'ValeyardCollections'
+    archivesBaseName = 'valeyardcollections'
     toolchain.languageVersion = JavaLanguageVersion.of(8)
 }
 

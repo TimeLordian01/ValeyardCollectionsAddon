@@ -1,0 +1,42 @@
+[
+   {
+      "x": 0,
+      "y": -0.785,
+      "z": -0.7025,
+      "string": "POLICE  -=-  BOX",
+      "scale": 1,
+      "rot_x": 0,
+      "rot_y": 0,
+      "rot_z": 0
+   },
+   {
+      "x": 0,
+      "y": -0.785,
+      "z": -0.7025,
+      "string": "POLICE  -=-  BOX",
+      "scale": 1,
+      "rot_x": 0,
+      "rot_y": 90,
+      "rot_z": 0
+   },
+   {
+      "x": 0,
+      "y": -0.785,
+      "z": -0.7025,
+      "string": "POLICE  -=-  BOX",
+      "scale": 1,
+      "rot_x": 0,
+      "rot_y": 180,
+      "rot_z": 0
+   },
+   {
+      "x": 0,
+      "y": -0.785,
+      "z": -0.7025,
+      "string": "POLICE  -=-  BOX",
+      "scale": 1,
+      "rot_x": 0,
+      "rot_y": 270,
+      "rot_z": 0
+   }
+]

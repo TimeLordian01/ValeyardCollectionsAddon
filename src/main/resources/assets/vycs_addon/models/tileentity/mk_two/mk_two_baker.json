@@ -1,0 +1,158 @@
+{
+	"credit": "Made with Blockbench",
+	"texture": "vycs_addon:tileentity/mk_two/mk_two_baker",
+	"lightmap": "vycs_addon:tileentity/mk_two/mk_two_baker_lightmap",
+	"font_data": "vycs_addon:models/tileentity/mk_two/mk_two_baker_font.json",
+	"alphamap": "generated",
+	"texture_width": 256,
+	"texture_height": 256,
+	"scale": 0.8,
+	"groups": [
+		{
+			"pivot": [0,24,0],
+			"rotation": [0,0,0],
+			"cubes": [
+				{
+					"uv": [0,56],
+					"size": [1,41,18],
+					"origin": [-12,-43,-9],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [76,60],
+					"size": [4,46,4],
+					"origin": [-13,-48,-13],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [0,0],
+					"size": [28,2,28],
+					"origin": [-14,-2,-14],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [76,34],
+					"size": [3,4,22],
+					"origin": [-14,-47,-11],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [0,0],
+					"size": [1,1,1],
+					"origin": [-1,-1,0],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [38,56],
+					"size": [18,41,1],
+					"origin": [-9,-43,11],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [0,0],
+					"size": [6,1,6],
+					"origin": [-3,-50,-3],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [0,7],
+					"size": [4,4,4],
+					"origin": [-2,-54,-2],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [0,30],
+					"size": [24,2,24],
+					"origin": [-12,-49,-12],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [84,0],
+					"size": [22,4,3],
+					"origin": [-11,-47,-14],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [0,56],
+					"size": [1,41,18],
+					"origin": [11,-43,-9],
+					"inflate": 0,
+					"mirror": true
+				},
+				{
+					"uv": [76,34],
+					"size": [3,4,22],
+					"origin": [11,-47,-11],
+					"inflate": 0,
+					"mirror": true
+				},
+				{
+					"uv": [84,7],
+					"size": [22,4,3],
+					"origin": [-11,-47,11],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [76,60],
+					"size": [4,46,4],
+					"origin": [-13,-48,9],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [76,60],
+					"size": [4,46,4],
+					"origin": [9,-48,9],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [76,60],
+					"size": [4,46,4],
+					"origin": [9,-48,-13],
+					"inflate": 0,
+					"mirror": false
+				}
+			]
+		},
+		{
+			"group_name": "LeftDoor",
+			"pivot": [9,1.5,-11],
+			"rotation": [0,0,0],
+			"cubes": [
+				{
+					"uv": [92,60],
+					"size": [9,41,1],
+					"origin": [-9,-20.5,-1],
+					"inflate": 0,
+					"mirror": false
+				}
+			]
+		},
+		{
+			"group_name": "RightDoor",
+			"pivot": [-9,1.5,-11],
+			"rotation": [0,0,0],
+			"cubes": [
+				{
+					"uv": [38,98],
+					"size": [9,41,1],
+					"origin": [0,-20.5,-1],
+					"inflate": 0,
+					"mirror": false
+				}
+			]
+		}
+	]
+}

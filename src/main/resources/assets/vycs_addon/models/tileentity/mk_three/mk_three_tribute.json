@@ -1,0 +1,7 @@
+{
+	"texture": "vycs_addon:tileentity/mk_three/mk_three_capaldi_tribute",
+	"lightmap": "vycs_addon:tileentity/mk_three/mk_three_capaldi_tribute_lightmap",
+	"font_data": "vycs_addon:models/tileentity/mk_three/mk_three_smith_font.json",
+	"alphamap": "generated",
+	"parent": "vycs_addon:models/tileentity/mk_three/mk_three_capaldi"
+}

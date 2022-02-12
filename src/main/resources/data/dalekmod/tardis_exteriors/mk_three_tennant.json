@@ -1,0 +1,11 @@
+{
+  "exteriorName":"Mark 3 Tennant (Interior and Exterior)",
+  "interiorPath": "dalekmod:valeyard_coral",
+  "modelPath":[
+    "vycs_addon:models/tileentity/mk_three/mk_three_tennant.json"
+  ],
+  "xpValue":100,
+  "unlockable":true,
+  "isDefaultSelection":true,
+  "desc":"Mark 3 Tennant (Interior and Exterior)"
+}

@@ -1,0 +1,12 @@
+{
+  "exteriorName":"Mark 3 Whittaker (Interior and Exterior)",
+  "interiorPath": "dalekmod:valeyard_whittaker",
+  "modelPath":[
+    "vycs_addon:models/tileentity/mk_three/mk_three_whittaker.json",
+    "vycs_addon:models/tileentity/mk_three/mk_three_whittaker_eve.json"
+  ],
+  "xpValue":100,
+  "unlockable":true,
+  "isDefaultSelection":true,
+  "desc":"Mark 3 Whittaker (Interior and Exterior)"
+}

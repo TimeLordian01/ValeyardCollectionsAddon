@@ -1,6 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"texture": "vycs_addon:tileentity/vale_exterior/vale_exterior",
+	"lightmap": "vycs_addon:tileentity/vale_exterior/vale_exterior_lightmap",
+	"font_data": "vycs_addon:models/tileentity/vale_exterior/vale_exterior_font.json",
 	"alphamap": "generated",
 	"texture_width": 256,
 	"texture_height": 256,

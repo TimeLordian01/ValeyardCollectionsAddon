@@ -1,0 +1,122 @@
+[
+   {
+      "x": 0,
+      "y": -1,
+      "z": -0.775,
+      "string": "POLICE       BOX",
+      "scale": 1,
+      "rot_x": 0,
+      "rot_y": 0,
+      "rot_z": 0
+   },
+   {
+      "x": 0.075,
+      "y": -1,
+      "z": -0.775,
+      "string": "PUBLIC",
+      "scale": 0.45,
+      "rot_x": 0,
+      "rot_y": 0,
+      "rot_z": 0
+   },
+   {
+      "x": 0.075,
+      "y": -0.96,
+      "z": -0.775,
+      "string": "CALL",
+      "scale": 0.45,
+      "rot_x": 0,
+      "rot_y": 0,
+      "rot_z": 0
+   },
+   {
+      "x": 0,
+      "y": -1,
+      "z": -0.775,
+      "string": "POLICE       BOX",
+      "scale": 1,
+      "rot_x": 0,
+      "rot_y": 90,
+      "rot_z": 0
+   },
+   {
+      "x": 0.075,
+      "y": -1,
+      "z": -0.775,
+      "string": "PUBLIC",
+      "scale": 0.45,
+      "rot_x": 0,
+      "rot_y": 90,
+      "rot_z": 0
+   },
+   {
+      "x": 0.075,
+      "y": -0.96,
+      "z": -0.775,
+      "string": "CALL",
+      "scale": 0.45,
+      "rot_x": 0,
+      "rot_y": 90,
+      "rot_z": 0
+   },
+   {
+      "x": 0,
+      "y": -1,
+      "z": -0.775,
+      "string": "POLICE       BOX",
+      "scale": 1,
+      "rot_x": 0,
+      "rot_y": 180,
+      "rot_z": 0
+   },
+   {
+      "x": 0.075,
+      "y": -1,
+      "z": -0.775,
+      "string": "PUBLIC",
+      "scale": 0.45,
+      "rot_x": 0,
+      "rot_y": 180,
+      "rot_z": 0
+   },
+   {
+      "x": 0.075,
+      "y": -0.96,
+      "z": -0.775,
+      "string": "CALL",
+      "scale": 0.45,
+      "rot_x": 0,
+      "rot_y": 180,
+      "rot_z": 0
+   },
+   {
+      "x": 0,
+      "y": -1,
+      "z": -0.775,
+      "string": "POLICE       BOX",
+      "scale": 1,
+      "rot_x": 0,
+      "rot_y": -90,
+      "rot_z": 0
+   },
+   {
+      "x": 0.075,
+      "y": -1,
+      "z": -0.775,
+      "string": "PUBLIC",
+      "scale": 0.45,
+      "rot_x": 0,
+      "rot_y": -90,
+      "rot_z": 0
+   },
+   {
+      "x": 0.075,
+      "y": -0.96,
+      "z": -0.775,
+      "string": "CALL",
+      "scale": 0.45,
+      "rot_x": 0,
+      "rot_y": -90,
+      "rot_z": 0
+   }
+]

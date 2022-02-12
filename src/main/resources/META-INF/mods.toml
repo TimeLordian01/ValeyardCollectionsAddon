@@ -3,7 +3,7 @@ loaderVersion="[30,)"
 license="Apache"
 [[mods]]
 modId="vycs_addon"
-version="1.0.5"
+version="1.1.5"
 displayName="Valeyard Collections Addon"
 displayURL="https://valeyardstudios.wixsite.com/valeyardstudios"
 credits="TheVale"

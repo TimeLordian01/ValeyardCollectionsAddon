@@ -1,0 +1,15 @@
+{
+   "exteriorName":"Loqorium Collection",
+   "interiorPath": "dalekmod:blockstack_default",
+   "modelPath":[
+      "vycs_addon:models/tileentity/loqorium/70s_police_box.json",
+      "vycs_addon:models/tileentity/loqorium/revamped_hudolin.json",
+      "vycs_addon:models/tileentity/loqorium/coral.json",
+      "vycs_addon:models/tileentity/loqorium/shalka.json",
+      "vycs_addon:models/tileentity/loqorium/illuminated_newsstand.json"
+   ],
+   "xpValue":420,
+   "unlockable":true,
+   "isDefaultSelection":true,
+   "desc":"Exteriors by Loqor"
+}
