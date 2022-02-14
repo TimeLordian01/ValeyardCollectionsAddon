@@ -1,0 +1,11 @@
+{
+  "exteriorName":"Mark 3 McGann (Exterior)",
+  "interiorPath": "dalekmod:pagoda_default",
+  "modelPath":[
+    "vycs_addon:models/tileentity/mk_three/mk_three_mcgann.json"
+  ],
+  "xpValue":100,
+  "unlockable":true,
+  "isDefaultSelection":true,
+  "desc":"Mark 3 McGann (Interior and Exterior)"
+}

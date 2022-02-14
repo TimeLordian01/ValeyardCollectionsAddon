@@ -12,7 +12,7 @@ buildscript {
 apply plugin: 'net.minecraftforge.gradle'
 
 group = 'Valeyard Collections'
-version = '1.1.5'
+version = '1.1.6'
 
 java {
     archivesBaseName = 'valeyardcollections'
